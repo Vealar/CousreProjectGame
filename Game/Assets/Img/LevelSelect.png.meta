@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: df2238544b5aaaa4cbc3481a78ba3494
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8225812012031239119
+    second: LevelSelect_0
+  - first:
+      213: -3201888878624163665
+    second: LevelSelect_1
+  - first:
+      213: -4502928127654240703
+    second: LevelSelect_2
+  - first:
+      213: -3862178733969638199
+    second: LevelSelect_3
+  - first:
+      213: 625846199752909673
+    second: LevelSelect_4
+  - first:
+      213: 3496053278318549885
+    second: LevelSelect_5
+  - first:
+      213: -706446141536841794
+    second: LevelSelect_6
+  - first:
+      213: -1655699828696649010
+    second: LevelSelect_7
+  - first:
+      213: -308262868454210304
+    second: LevelSelect_8
+  - first:
+      213: -8528419882154458470
+    second: LevelSelect_9
+  - first:
+      213: -7744654241102217439
+    second: LevelSelect_10
+  - first:
+      213: -7050207694781156039
+    second: LevelSelect_11
+  - first:
+      213: 8944407236079630667
+    second: LevelSelect_12
+  - first:
+      213: 7120885475093114483
+    second: LevelSelect_13
+  - first:
+      213: 4913438598367518406
+    second: LevelSelect_14
+  - first:
+      213: 2524950816125168449
+    second: LevelSelect_15
+  - first:
+      213: 5735000688060617761
+    second: LevelSelect_16
+  - first:
+      213: -3466582567673216714
+    second: LevelSelect_17
+  - first:
+      213: 6835920514770039618
+    second: LevelSelect_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelSelect_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 433
+        width: 360
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc363465174f72270800000000000000
+      internalID: 8225812012031239119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 339
+        width: 355
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935f7d78471a82e90800000000000000
+      internalID: -7050207694781156039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 239
+        width: 103
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49b5f0edfae02c70800000000000000
+      internalID: 8944407236079630667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 239
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ee92d8c9772d260800000000000000
+      internalID: 7120885475093114483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 239
+        width: 103
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce93696f5a003440800000000000000
+      internalID: 4913438598367518406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 148
+        width: 334
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b2976b36d6a0320800000000000000
+      internalID: 2524950816125168449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 49
+        width: 103
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124597e8db0d69f40800000000000000
+      internalID: 5735000688060617761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 49
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631c64d758934efc0800000000000000
+      internalID: -3466582567673216714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect_18
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 49
+        width: 103
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2437cab6d711ede50800000000000000
+      internalID: 6835920514770039618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3c93170d26f474246bd6dd0826076c00
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":2,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      LevelSelect_0: 8225812012031239119
+      LevelSelect_11: -7050207694781156039
+      LevelSelect_12: 8944407236079630667
+      LevelSelect_13: 7120885475093114483
+      LevelSelect_14: 4913438598367518406
+      LevelSelect_15: 2524950816125168449
+      LevelSelect_16: 5735000688060617761
+      LevelSelect_17: -3466582567673216714
+      LevelSelect_18: 6835920514770039618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

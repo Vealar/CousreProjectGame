@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: 56667f84a2200924592c3ea0efaaa6c4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PeaShoottSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1907
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f900e7cd3aeb5e4b9afad01c39cbf93
+      internalID: -898781716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1904
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b468d41553a0b4b47a9a0fa324a06269
+      internalID: 895043923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1903
+        width: 155
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283563288cb74f445822ca9135cb8b06
+      internalID: 2083669808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1900
+        width: 146
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349c03b975921b84a815a6dffc35c4f0
+      internalID: 1404034813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1904
+        width: 140
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9acca924fb37f2479be11cbb9632d71
+      internalID: -1163667422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_5
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1898
+        width: 154
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0ce9d2dd5576438d5207c3b3b37da
+      internalID: -323500810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1899
+        width: 134
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0136c9a0b960b774d96c5e0f8fbaea05
+      internalID: -1591045294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_7
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1907
+        width: 120
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d98abcb0579abf4188d6cae4e083f17
+      internalID: -1997701516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1977
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd2b8437e3e4ec43847cac062acadb7
+      internalID: -1465445583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1968
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9e8e0f7aa20fb45a61c14849933648
+      internalID: 1760083103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1959
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd5828f296c4be4bbbc09224c2d6b00
+      internalID: -1612155408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1949
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba24e32e9703efe458ea922f2e04b655
+      internalID: 1070333309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1823
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64edea9ed3d4d2c4cbfbb967fa727f5a
+      internalID: -1188386304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1802
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78523bdd522fe2a45a48884e5e227e77
+      internalID: 58338178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1729
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05b0501d57c1c540b14ce0402ae4fcc
+      internalID: 1866344862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1653
+        width: 230
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836d17692da244b419628b146e54df4e
+      internalID: 1384509841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1622
+        width: 253
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1310e249e6200544d943220f72b2af32
+      internalID: -392897979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_17
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1614
+        width: 257
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3cea2046f59e34a9db3cb333a6b0cb
+      internalID: 1131459614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1375
+        width: 462
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6413b51261cad418ebdce7ccad3989
+      internalID: -1374076136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1383
+        width: 389
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03be465ce7c551b4ebbcb99fdcd3cc75
+      internalID: -253273947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_20
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1390
+        width: 416
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa51dda2a8002443adeb5eca0d5abfa
+      internalID: -644165269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1384
+        width: 432
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a6921aa47ea1146ae531c4ccb899ce
+      internalID: 325515068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1169
+        width: 398
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ab37abfe04efc4bad46640bd3e0bf7
+      internalID: 1949770653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1174
+        width: 402
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07af1c635707604eb43501904dd54a9
+      internalID: 104062087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_24
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1188
+        width: 410
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104bb26b8acf80a429c0066f4c26fb39
+      internalID: -1271078893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1172
+        width: 438
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa50fc868ae0c34b83d3a9691a92845
+      internalID: -1113638375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 881
+        width: 300
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc695f40b8cbad449f7bc64c7a47454
+      internalID: 1644986794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 842
+        width: 348
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1de72a2e2bffa64cbe8746c7032f8ba
+      internalID: 2009339244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_28
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 786
+        width: 401
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3739e0af79095a7458062af1c4ae7ccb
+      internalID: -1115657395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 753
+        width: 444
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9544ac6bf978ff439580940a28b6fe4
+      internalID: -1179051534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 729
+        width: 488
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1d44a2e6f9e164d8310bae80e793cd
+      internalID: 121936205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 269
+        width: 509
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1021a5d8db2ad76468f3ecb20469855f
+      internalID: -633394370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_32
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 254
+        width: 519
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d4f11790074b34b80d158d737c18d1
+      internalID: 1555317416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 244
+        width: 499
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5323285b12c2f14aa5fd46a51e6185c
+      internalID: 910982163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShoottSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 252
+        width: 471
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7431859c41578254aac5e688a29efc28
+      internalID: 456458623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PeaShoottSheet_0: -898781716
+      PeaShoottSheet_1: 895043923
+      PeaShoottSheet_10: -1612155408
+      PeaShoottSheet_11: 1070333309
+      PeaShoottSheet_12: -1188386304
+      PeaShoottSheet_13: 58338178
+      PeaShoottSheet_14: 1866344862
+      PeaShoottSheet_15: 1384509841
+      PeaShoottSheet_16: -392897979
+      PeaShoottSheet_17: 1131459614
+      PeaShoottSheet_18: -1374076136
+      PeaShoottSheet_19: -253273947
+      PeaShoottSheet_2: 2083669808
+      PeaShoottSheet_20: -644165269
+      PeaShoottSheet_21: 325515068
+      PeaShoottSheet_22: 1949770653
+      PeaShoottSheet_23: 104062087
+      PeaShoottSheet_24: -1271078893
+      PeaShoottSheet_25: -1113638375
+      PeaShoottSheet_26: 1644986794
+      PeaShoottSheet_27: 2009339244
+      PeaShoottSheet_28: -1115657395
+      PeaShoottSheet_29: -1179051534
+      PeaShoottSheet_3: 1404034813
+      PeaShoottSheet_30: 121936205
+      PeaShoottSheet_31: -633394370
+      PeaShoottSheet_32: 1555317416
+      PeaShoottSheet_33: 910982163
+      PeaShoottSheet_34: 456458623
+      PeaShoottSheet_4: -1163667422
+      PeaShoottSheet_5: -323500810
+      PeaShoottSheet_6: -1591045294
+      PeaShoottSheet_7: -1997701516
+      PeaShoottSheet_8: -1465445583
+      PeaShoottSheet_9: 1760083103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

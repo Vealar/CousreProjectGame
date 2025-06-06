@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: be53894145b8a68488b3aaabb0e76239
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3452798880926501847
+    second: fan2_0
+  - first:
+      213: 3272475169597788786
+    second: fan2_1
+  - first:
+      213: -5026783669768426890
+    second: fan2_2
+  - first:
+      213: -4941846096352864254
+    second: fan2_3
+  - first:
+      213: 5283038768778342588
+    second: fan2_4
+  - first:
+      213: 3148866331157605590
+    second: fan2_5
+  - first:
+      213: -1388970531536484567
+    second: fan2_6
+  - first:
+      213: -8674848774050024613
+    second: fan2_7
+  - first:
+      213: 4222913005315001330
+    second: fan2_8
+  - first:
+      213: 446359312149612957
+    second: fan2_9
+  - first:
+      213: -2227508136892954795
+    second: fan2_10
+  - first:
+      213: 389594219047718386
+    second: fan2_11
+  - first:
+      213: 8891713662673278693
+    second: fan2_12
+  - first:
+      213: 3954391063086618618
+    second: fan2_13
+  - first:
+      213: 1161687977212917198
+    second: fan2_14
+  - first:
+      213: 3978340058660801475
+    second: fan2_15
+  - first:
+      213: -8368737708690448247
+    second: fan2_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fan2_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 349
+        width: 206
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb076abf4cf115940800000000000000
+      internalID: 5283038768778342588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan2_5
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 301
+        width: 314
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc26d9ae3503bb20800000000000000
+      internalID: 3148866331157605590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan2_8
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 305
+        width: 321
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb8d2f110dca9a30800000000000000
+      internalID: 4222913005315001330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5cb139684eb05224683500b2d6f6e4b1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fan2_11: 389594219047718386
+      fan2_4: 5283038768778342588
+      fan2_5: 3148866331157605590
+      fan2_8: 4222913005315001330
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
